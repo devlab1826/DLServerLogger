@@ -1,0 +1,23 @@
+{
+  "name": "stigma-logger",
+  "version": "0.0.1",
+  "description": "DLServerLogger v0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlab1826/DLServerLogger.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "stigma8326",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devlab1826/DLServerLogger/issues"
+  },
+  "homepage": "https://github.com/devlab1826/DLServerLogger#readme"
+}
